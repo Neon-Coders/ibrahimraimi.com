@@ -5,7 +5,7 @@
 <section class="py-10">
 	<h2 class="text-2xl font-light">crafts</h2>
 	<p class="pb-5 text-base">
-		A curturld list of expremental & creative development stuff i do in my free time
+		A curated list of experimental & creative development stuff I do in my free time."
 	</p>
 	<div>
 		<ul class="text-sm">
