@@ -8,7 +8,7 @@
 		content="crafts, exprements, creative coding, coding, art, gsap, animations, design"
 	/>
 	<meta property="og:title" content="Ibrahim Raimi - Crafts" />
-	<meta property="og:description" content="Your website description" />
+	<meta property="og:description" content="A curturld list of expremental & creative development stuff i do in my free time" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://ibrahimraimi.com" />
 	<meta property="og:image" content="https://ibrahimraimi.com/opengraph-craft-image.png" />
