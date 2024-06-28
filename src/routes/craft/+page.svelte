@@ -7,4 +7,15 @@
 	<p class="pb-5 text-base">
 		A curated list of experimental & creative development stuff I do in my free time.
 	</p>
+
+	<div>
+		<ul class="text-sm">
+			{#each crafts as craft}
+				<li class="py-2">
+					—
+					<a href={craft.href} target="_blank">{craft.title}</a>
+				</li>
+			{/each}
+		</ul>
+	</div>
 </section>

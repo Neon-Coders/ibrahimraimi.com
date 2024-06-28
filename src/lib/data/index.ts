@@ -46,33 +46,58 @@ export const projects = [
 		title: "Fusion",
 		path: "/work/fusion",
 		href: "https://fusion.ibrahimraimi.com"
+	},
+	{
+		title: "Coco Palette - Color Palette Generator",
+		path: "work/coco-palette",
+		href: "https://coco-palette.netlify.app/"
 	}
-	// {
-	// 	title: "",
-	// 	path: "",
-	// 	href: "https://"
-	// }
 ];
 
 export const crafts = [
 	{
-		title: "Craftform",
-		path: "/work/craftform",
-		href: "https://craftform.ibrahimraimi.com"
+		title: "Felabration 2023 ",
+		path: "",
+		href: "https://fela-kuti.netlify.app"
 	},
 	{
-		title: "Korty Eniola",
-		path: "/work/korty-eo",
-		href: "https://korty.ibrahimraimi.com"
+		title: "Menu Overlay",
+		path: "",
+		href: "https://next-gsap-menu.netlify.app"
 	},
 	{
-		title: "Fusion",
-		path: "/work/fusion",
-		href: "https://fusion.ibrahimraimi.com"
+		title: "Shola Oladunjoye",
+		path: "",
+		href: "https://shola.ibrahimraimi.com"
+	},
+	{
+		title: "Adrienne Charlott - Image to grid",
+		path: "",
+		href: "https://image-to-grid.netlify.app"
+	},
+	{
+		title: "Crafting Transcendence",
+		path: "",
+		href: "https://crafting-transcendence.netlify.app"
+	},
+	{
+		title: "Modern art - モダンアート",
+		path: "",
+		href: "https://japan-art.netlify.app/"
+	},
+	{
+		title: "k72 Menu - Recretion of the menu on K72 Website",
+		path: "",
+		href: "https://k7-menu.netlify.app"
+	},
+	{
+		title: "Code Cartel intro animation",
+		path: "",
+		href: "https://code-intro.netlify.app"
+	},
+	{
+		title: "GSAP Scroll Timeline",
+		path: "",
+		href: "https://scroll-timeline.netlify.app/"
 	}
-	// {
-	// 	title: "",
-	// 	path: "",
-	// 	href: "https://"
-	// }
 ];
