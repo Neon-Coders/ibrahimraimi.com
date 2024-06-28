@@ -19,7 +19,7 @@
 		content="A curated list of experimental & creative development stuff I do in my free time"
 	/>
 	<meta name="twitter:image" content="https://ibrahimraimi.com/opengraph-craft-image.png" />
-	<title>My Crafts</title>
+	<title>my crafts</title>
 </svelte:head>
 
 <slot />
