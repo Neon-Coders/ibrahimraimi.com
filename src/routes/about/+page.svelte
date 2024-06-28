@@ -73,6 +73,42 @@
 </section>
 
 <section class="mb-8">
+	<h2 class="mb-4 text-lg">Favorite Artist and Producer</h2>
+	<ul class="mb-4 list-inside list-disc">
+		<li class="py-2">
+			<a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY" target="_blank"
+				>Travis Scott</a
+			>: His innovative approach to music and his ability to blend different genres make him my
+			favorite artist. His tracks are always a journey, filled with unique sounds and compelling
+			lyrics.
+		</li>
+		<li class="py-2">
+			<a href="https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp" target="_blank"
+				>Metro Boomin</a
+			>: As my favorite music producer, Metro Boomin’s beats are always on point. His production
+			style is distinct, and he consistently delivers hit after hit.
+		</li>
+	</ul>
+</section>
+
+<section class="mb-8">
+	<h2 class="mb-4 text-lg">Favorite Albums</h2>
+	<ul class="mb-4 list-inside list-disc">
+		<li>
+			<a href="https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ" target="_blank"
+				>METRO BOOMIN PRESENTS SPIDER‐MAN: ACROSS THE SPIDER‐VERSE</a
+			> by Metro Boomin: It's a phenomenal blend of hip-hop and cinematic elements, showcasing Metro
+			Boomin's versatility and creativity.
+		</li>
+		<li>
+			<a href="https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ" target="_blank">UTOPIA</a> by Travis
+			Scott: This album is a masterful blend of innovation and genre-defying music, reflecting Travis
+			Scott's unique artistry.
+		</li>
+	</ul>
+</section>
+
+<section class="mb-8">
 	<h2 class="mb-4 text-lg">A Song Close to My Heart</h2>
 	<p class="mb-4">
 		<a href="https://open.spotify.com/track/4sikZiG7dYZLcIiMlZlc32" target="_blank"
