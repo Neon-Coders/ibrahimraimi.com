@@ -18,6 +18,23 @@
 		/* Flat-top three */ "cv02" 1; /* Open 4 */
 }
 
+:global(body) {
+}
+
+:global(a) {
+	cursor:
+		url("/images/default-cursor.svg") 16 16,
+		auto;
+}
+
+:global(a:hover) {
+	cursor:
+		url("/images/hover-cursor.svg") 16 16,
+		auto;
+}
+
+/* cursor: url("""); */
+
 ::-webkit-scrollbar {
 	width: 7px;
 }
@@ -52,6 +69,9 @@ html {
 body {
 	background-color: #1c1c1c;
 	color: #ffffff;
+	cursor:
+		url("../assets/arrowhead-rounded-outline.svg") 8 8,
+		auto;
 }
 
 a {
@@ -60,4 +80,13 @@ a {
 	text-underline-offset: 4px;
 	letter-spacing: 0.025em;
 	color: #fee376;
+	cursor:
+		url("../assets/hand-pointer.svg") 8 8,
+		auto;
+}
+
+a:hover {
+	cursor:
+		url("../assets/hand-pointer.svg") 8 8,
+		auto;
 }

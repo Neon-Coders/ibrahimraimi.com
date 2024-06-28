@@ -2,17 +2,26 @@ export const posts = [
 	{
 		id: 1,
 		title: "The Ultimate Guide to Agile Software Development.",
-		href: "https://ibrahimraimi.com/posts/agile-software-development"
+		href: "https://dev.to/ibrahimraimi/the-ultimate-guide-to-agile-software-development-3cfi",
+		path: "https://ibrahimraimi.com/posts/agile-software-development"
 	},
 	{
 		id: 2,
 		title: "Taking a closer look at JavaScript package managers.",
-		href: "https://ibrahimraimi.com/posts/javascript-package-mamagers"
+		href: "https://dev.to/ibrahimraimi/javascript-package-managers-npm-yarn-and-pnpm-5e9f",
+		path: "https://ibrahimraimi.com/posts/javascript-package-mamagers"
 	},
 	{
 		id: 3,
 		title: "Guide to data fetching in React with SWR.",
-		href: "https://ibrahimraimi.com/posts/data-fetching-with-swr"
+		href: "https://dev.to/ibrahimraimi/data-fetching-in-react-with-swr-5gb0",
+		path: "https://ibrahimraimi.com/posts/data-fetching-with-swr"
+	},
+	{
+		id: 4,
+		title: "How to increase developer productivity",
+		href: "https://dev.to/ibrahimraimi/how-to-increase-developer-productivity-567o",
+		path: ""
 	}
 ];
 
