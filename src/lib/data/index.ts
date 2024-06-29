@@ -42,6 +42,11 @@ export const socials = [
 
 export const projects = [
 	{
+		title: "Studio21",
+		path: "work/studio21",
+		href: "https://studio21.ibrahimraimi.com"
+	},
+	{
 		title: "Craftform",
 		path: "/work/craftform",
 		href: "https://craftform.ibrahimraimi.com"
